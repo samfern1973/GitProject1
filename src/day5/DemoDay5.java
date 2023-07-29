@@ -9,6 +9,12 @@ public class DemoDay5 {
 	}
 	public void getData(){
 		System.out.println("But not as hot as Puerto Rico!");
+	}
+	
+	public void getInfo() {
+		System.out.println("Not as hot as the Middle East!");
+		
+	
 		
 	}
 
